@@ -100,12 +100,6 @@ Used selectively: accounting · financial analysis · corporate finance · budge
 
 ---
 
-## Public work
-
-Most product work is private (regulated / portfolio).
-
-| Repo | What it shows |
-| --- | --- |
-| [vanai-interact-page](https://github.com/AiAlchemist0/vanai-interact-page) | Survey → insight → music → 3D rhythm game. React, TypeScript, Three.js, Tailwind, Supabase. Live: [bcai.dev](https://bcai.dev) |
+Contributions are primarily in private repositories (regulated / protected — healthcare, payments, and portfolio product). The public graph understates activity.
 
 <p align="center"><sub>No legal name, email, or personal site on this page.</sub></p>
