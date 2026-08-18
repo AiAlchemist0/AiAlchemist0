@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="262" viewBox="0 0 1100 262" role="img">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8D5A3"/>
+      <stop offset="45%" stop-color="#C9A86A"/>
+      <stop offset="100%" stop-color="#8A7349"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161618"/>
+      <stop offset="100%" stop-color="#0B0B0C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="262" rx="18" fill="url(#sheen)"/>
+  <rect x="0.6" y="0.6" width="1098.8" height="260.8" rx="17.6" fill="none" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="40" y="36" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4" fill="#C9A86A">LANGUAGES</text>
+  <rect x="36" y="54" width="74.6" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="73.3" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Python</text>
+  <rect x="118.6" y="54" width="103.0" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="170.1" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">TypeScript</text>
+  <rect x="229.6" y="54" width="103.0" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="281.1" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">JavaScript</text>
+  <rect x="340.6" y="54" width="53.3" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="367.25" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">SQL</text>
+  <rect x="401.90000000000003" y="54" width="60.4" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="432.1" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Java</text>
+  <rect x="470.30000000000007" y="54" width="60.4" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="500.50000000000006" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Rust</text>
+  <rect x="538.7" y="54" width="88.8" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="583.1" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Solidity</text>
+  <rect x="635.5" y="54" width="103.0" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="687.0" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">PowerShell</text>
+  <text x="40" y="106" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4" fill="#C9A86A">PRODUCT & PLATFORM</text>
+  <rect x="36" y="124" width="67.5" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="69.75" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">React</text>
+  <rect x="111.5" y="124" width="60.4" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="141.7" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Vite</text>
+  <rect x="179.9" y="124" width="81.69999999999999" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="220.75" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Node.js</text>
+  <rect x="269.6" y="124" width="88.8" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="314.0" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Tailwind</text>
+  <rect x="366.40000000000003" y="124" width="88.8" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="410.8" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Three.js</text>
+  <rect x="463.20000000000005" y="124" width="95.9" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="511.15000000000003" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Capacitor</text>
+  <rect x="567.1" y="124" width="88.8" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="611.5" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Postgres</text>
+  <rect x="663.9" y="124" width="88.8" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="708.3" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Supabase</text>
+  <text x="40" y="176" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4" fill="#C9A86A">CLOUD & DELIVERY</text>
+  <rect x="36" y="194" width="67.5" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="69.75" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Azure</text>
+  <rect x="111.5" y="194" width="103.0" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="163.0" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Cloudflare</text>
+  <rect x="222.5" y="194" width="74.6" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="259.8" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Docker</text>
+  <rect x="305.1" y="194" width="67.5" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="338.85" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Linux</text>
+  <rect x="380.6" y="194" width="53.3" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="407.25" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Git</text>
+  <rect x="441.90000000000003" y="194" width="67.5" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="475.65000000000003" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">CI/CD</text>
+  <rect x="517.4000000000001" y="194" width="53.3" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="544.0500000000001" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">OTA</text>
+  <rect x="578.7" y="194" width="88.8" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="623.1" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Power BI</text>
+  <rect x="675.5" y="194" width="81.69999999999999" height="30" rx="15" fill="#161618" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="716.35" y="214" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#EDE6D6">Tableau</text>
+
+</svg>
