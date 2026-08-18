@@ -1,7 +1,7 @@
 <h1 align="center">AiAlchemist</h1>
 
 <p align="center">
-  <strong>Applied AI · LLM products · healthcare / regulated systems</strong><br/>
+  <strong>Applied AI · LLM products · healthcare / regulated systems · fintech &amp; payments</strong><br/>
   Handle-only. Legal name is not on this page — it travels with the link you were given.
 </p>
 
@@ -10,9 +10,10 @@
   <img src="https://img.shields.io/badge/GenAI-238636?style=for-the-badge" alt="GenAI" />
   <img src="https://img.shields.io/badge/RAG-8957E5?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/Digital_Health-DA3633?style=for-the-badge" alt="Digital Health" />
+  <img src="https://img.shields.io/badge/Fintech_%26_Payments-0E7C66?style=for-the-badge" alt="Fintech & Payments" />
 </p>
 
-Hands-on applied AI: large language models, retrieval, evaluation / safety, and privacy-by-design products that ship on web and mobile. Also: analytics and change leadership in large health systems.
+Hands-on applied AI: large language models, retrieval, evaluation / safety, and privacy-by-design products that ship on web and mobile. Also: analytics and change leadership in large health systems, and product/engineering work in fintech and payments (wallets, rails, on-chain).
 
 ---
 
@@ -60,6 +61,13 @@ Python — LinkedIn skill assessment passed.
 | --- | --- |
 | Models & methods | Large language models (LLMs) · Generative AI / GenAI · RAG · Multi-model orchestration · NLP · Voice AI · LLM safety / eval · Explainable AI (XAI) · Ethical AI |
 | Product | 0–1 / beta · Product strategy · Digital health · Multi-platform (iOS / Android / Web) · Privacy-by-design (HIPAA / PHIPA / FOIPPA mindset) |
+
+### Fintech & payments
+
+| Group | Skills |
+| --- | --- |
+| Domain | Fintech · Payments · Digital wallets · Payment rails · On-chain / crypto product · DeFi |
+| Build | Solidity / EVM · Non-custodial wallets · MPC key management · Smart contracts · On-chain analytics · Secure UX for money movement |
 
 ### Data & analytics
 
