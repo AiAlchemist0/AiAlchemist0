@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="772" viewBox="0 0 1100 772" role="img">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8D5A3"/>
+      <stop offset="45%" stop-color="#C9A86A"/>
+      <stop offset="100%" stop-color="#8A7349"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161618"/>
+      <stop offset="100%" stop-color="#0B0B0C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="772" rx="18" fill="url(#sheen)"/>
+  <rect x="0.6" y="0.6" width="1098.8" height="770.8" rx="17.6" fill="none" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="40" y="40" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4.5" fill="#C9A86A">AI & PRODUCT</text>
+  <line x1="40" y1="56" x2="1060" y2="56" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="40" y="82" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Models</text>
+  <text x="168" y="82" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">LLMs · GenAI · RAG · Multi-model orchestration · NLP · Voice · Eval / safety · XAI · Ethical AI</text>
+  <text x="40" y="108" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Ship</text>
+  <text x="168" y="108" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">0–1 / beta · Product strategy · Digital health · iOS / Android / Web · Privacy-by-design</text>
+  <text x="40" y="152" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4.5" fill="#C9A86A">FINTECH & PAYMENTS</text>
+  <line x1="40" y1="168" x2="1060" y2="168" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="40" y="194" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Domain</text>
+  <text x="168" y="194" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">Fintech · Payments · Digital wallets · Payment rails · On-chain product · DeFi</text>
+  <text x="40" y="220" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Build</text>
+  <text x="168" y="220" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">Solidity / EVM · Non-custodial wallets · MPC · Smart contracts · On-chain analytics · Secure UX</text>
+  <text x="40" y="264" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4.5" fill="#C9A86A">DATA & ANALYTICS</text>
+  <line x1="40" y1="280" x2="1060" y2="280" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="40" y="306" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Core</text>
+  <text x="168" y="306" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">SQL · Python · Predictive modeling · Statistics · Business & quantitative analytics</text>
+  <text x="40" y="332" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Platforms</text>
+  <text x="168" y="332" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">Azure · Power BI · Tableau · Visualization · Medallion architecture · Mining</text>
+  <text x="40" y="358" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Health data</text>
+  <text x="168" y="358" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">EMR · Health systems · HealthKit · Clinical / ops metrics · Service-planning analytics</text>
+  <text x="40" y="402" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4.5" fill="#C9A86A">LEADERSHIP & DELIVERY</text>
+  <line x1="40" y1="418" x2="1060" y2="418" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="40" y="444" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">AI lead</text>
+  <text x="168" y="444" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">AI strategy · Transformation · Governance · Cross-functional · Research partnerships</text>
+  <text x="40" y="470" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Change</text>
+  <text x="168" y="470" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">PROSCI / ADKAR · Scrum / CSM · Agile · Project management · Knowledge management</text>
+  <text x="40" y="496" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Founder</text>
+  <text x="168" y="496" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">Entrepreneurship · 0–1 · Product strategy · Business development</text>
+  <text x="40" y="540" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4.5" fill="#C9A86A">HEALTHCARE & SCIENCE</text>
+  <line x1="40" y1="556" x2="1060" y2="556" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="40" y="582" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Domain</text>
+  <text x="168" y="582" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">Digital health · Healthcare leadership · Consulting · Health systems · EMR</text>
+  <text x="40" y="608" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Science</text>
+  <text x="168" y="608" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">Chemistry · Biochemistry · Nanochemistry · Experimental design · Scientific writing</text>
+  <text x="40" y="634" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Research</text>
+  <text x="168" y="634" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">Clinical RAG · LLM safety scoring · Prompt-injection defense · Multi-task clinical models + SHAP</text>
+  <text x="40" y="678" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="4.5" fill="#C9A86A">FINANCE & CONSULTING</text>
+  <line x1="40" y1="694" x2="1060" y2="694" stroke="rgba(201,168,106,0.28)" stroke-width="1"/>
+  <text x="40" y="720" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#8A7349">Selective</text>
+  <text x="168" y="720" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#EDE6D6">Accounting · Financial analysis · Corporate finance · Budgeting · Capex · Operations research</text>
+
+</svg>
