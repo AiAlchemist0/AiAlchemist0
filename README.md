@@ -26,15 +26,57 @@
 
 </div>
 
-| Org | Pull request | Change |
-|-----|----------------|--------|
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32844](https://github.com/cloudflare/cloudflare-docs/pull/32844) merged | DNSCrypt GitHub URL |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32845](https://github.com/cloudflare/cloudflare-docs/pull/32845) | Artifacts requires Workers Paid |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32847](https://github.com/cloudflare/cloudflare-docs/pull/32847) | Short Pages framework-guide URLs |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32848](https://github.com/cloudflare/cloudflare-docs/pull/32848) | Spectrum FTP article link |
-| [honojs/hono](https://github.com/honojs/hono) | [#5269](https://github.com/honojs/hono/pull/5269) | Bearer-auth `message` can return `Response` |
-| [vercel/ai](https://github.com/vercel/ai) | [#19057](https://github.com/vercel/ai/pull/19057) | Docs: generate a chat title |
-| [vercel/ai](https://github.com/vercel/ai) | [#19061](https://github.com/vercel/ai/pull/19061) | LLM Suspense guide + cookbook |
-| [denoland/docs](https://github.com/denoland/docs) | [#3459](https://github.com/denoland/docs/pull/3459) | `deno pack` publish.include (2.9) |
+<table>
+  <tr>
+    <th align="left">Org</th>
+    <th align="center">PR</th>
+    <th align="left">Change</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td rowspan="4"><a href="https://github.com/cloudflare/cloudflare-docs"><strong>cloudflare-docs</strong></a></td>
+    <td align="center"><a href="https://github.com/cloudflare/cloudflare-docs/pull/32844"><code>#32844</code></a></td>
+    <td>DNSCrypt GitHub URL</td>
+    <td align="center"><img src="https://img.shields.io/badge/merged-2da44e?style=flat-square" alt="merged" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/cloudflare/cloudflare-docs/pull/32845"><code>#32845</code></a></td>
+    <td>Artifacts requires Workers Paid</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/cloudflare/cloudflare-docs/pull/32847"><code>#32847</code></a></td>
+    <td>Short Pages framework-guide URLs</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/cloudflare/cloudflare-docs/pull/32848"><code>#32848</code></a></td>
+    <td>Spectrum FTP article link</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/honojs/hono"><strong>hono</strong></a></td>
+    <td align="center"><a href="https://github.com/honojs/hono/pull/5269"><code>#5269</code></a></td>
+    <td>Bearer-auth <code>message</code> can return <code>Response</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><a href="https://github.com/vercel/ai"><strong>vercel/ai</strong></a></td>
+    <td align="center"><a href="https://github.com/vercel/ai/pull/19057"><code>#19057</code></a></td>
+    <td>Generate a chat title</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/vercel/ai/pull/19061"><code>#19061</code></a></td>
+    <td>LLM Suspense guide + cookbook</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/denoland/docs"><strong>deno docs</strong></a></td>
+    <td align="center"><a href="https://github.com/denoland/docs/pull/3459"><code>#3459</code></a></td>
+    <td><code>deno pack</code> publish.include (2.9)</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+</table>
 
 <!-- profile-refresh: 2026-08-19 -->
