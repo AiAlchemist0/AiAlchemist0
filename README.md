@@ -28,7 +28,7 @@
 
 | Org | Pull request | Change |
 |-----|----------------|--------|
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32844](https://github.com/cloudflare/cloudflare-docs/pull/32844) | DNSCrypt GitHub URL |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32844](https://github.com/cloudflare/cloudflare-docs/pull/32844) merged | DNSCrypt GitHub URL |
 | [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32845](https://github.com/cloudflare/cloudflare-docs/pull/32845) | Artifacts requires Workers Paid |
 | [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32847](https://github.com/cloudflare/cloudflare-docs/pull/32847) | Short Pages framework-guide URLs |
 | [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32848](https://github.com/cloudflare/cloudflare-docs/pull/32848) | Spectrum FTP article link |
