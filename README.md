@@ -77,6 +77,12 @@
     <td><code>deno pack</code> publish.include (2.9)</td>
     <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/dbt-labs/docs.getdbt.com"><strong>dbt docs</strong></a></td>
+    <td align="center"><a href="https://github.com/dbt-labs/docs.getdbt.com/pull/9852"><code>#9852</code></a></td>
+    <td>External partition <code>expression</code> YAML</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
 </table>
 
 <!-- profile-refresh: 2026-08-19 -->
