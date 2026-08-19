@@ -87,7 +87,7 @@
     <td><a href="https://github.com/duckdb/duckdb-web"><strong>duckdb-web</strong></a></td>
     <td align="center"><a href="https://github.com/duckdb/duckdb-web/pull/7159"><code>#7159</code></a></td>
     <td>Preview latest CLI → tar.gz</td>
-    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/merged-2da44e?style=flat-square" alt="merged" /></td>
   </tr>
 </table>
 
