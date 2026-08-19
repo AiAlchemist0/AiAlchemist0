@@ -24,12 +24,6 @@
 
 ## Open source
 
-[@AiAlchemist0](https://github.com/AiAlchemist0)
-
-**Product** — [OrbitKeep](https://github.com/AiAlchemist0/orbitkeep) · [live](https://bloome.im/s/GXGsK4TI) · Bloome AI Hackathon 2026
-
-Public pull requests
-
 </div>
 
 | Org | Pull request | Change |
