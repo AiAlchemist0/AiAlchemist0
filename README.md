@@ -20,4 +20,26 @@
   <img src="./assets/note.png" width="100%" alt="Contributions are primarily in private repositories" />
 </div>
 
+<div align="center">
+
+## Open source
+
+[@AiAlchemist0](https://github.com/AiAlchemist0)
+
+**Product** — [OrbitKeep](https://github.com/AiAlchemist0/orbitkeep) · [live](https://bloome.im/s/GXGsK4TI) · Bloome AI Hackathon 2026
+
+Public pull requests
+
+</div>
+
+| Org | Pull request | Change |
+|-----|----------------|--------|
+| [cloudflare/vinext](https://github.com/cloudflare/vinext) | [#2994](https://github.com/cloudflare/vinext/pull/2994) | Windows `path.relative` → POSIX |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32844](https://github.com/cloudflare/cloudflare-docs/pull/32844) | DNSCrypt GitHub URL |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [#32845](https://github.com/cloudflare/cloudflare-docs/pull/32845) | Artifacts requires Workers Paid |
+| [nuxt/nuxt](https://github.com/nuxt/nuxt) | [#36122](https://github.com/nuxt/nuxt/pull/36122) | `typescript.typeCheck: 'dev'` |
+| [honojs/hono](https://github.com/honojs/hono) | [#5269](https://github.com/honojs/hono/pull/5269) | Bearer-auth `message` can return `Response` |
+| [vercel/ai](https://github.com/vercel/ai) | [#19057](https://github.com/vercel/ai/pull/19057) | Docs: generate a chat title |
+| [vercel/ai](https://github.com/vercel/ai) | [#19061](https://github.com/vercel/ai/pull/19061) | LLM Suspense guide + cookbook |
+
 <!-- profile-refresh: 2026-08-19 -->
