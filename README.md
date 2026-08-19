@@ -35,5 +35,6 @@
 | [honojs/hono](https://github.com/honojs/hono) | [#5269](https://github.com/honojs/hono/pull/5269) | Bearer-auth `message` can return `Response` |
 | [vercel/ai](https://github.com/vercel/ai) | [#19057](https://github.com/vercel/ai/pull/19057) | Docs: generate a chat title |
 | [vercel/ai](https://github.com/vercel/ai) | [#19061](https://github.com/vercel/ai/pull/19061) | LLM Suspense guide + cookbook |
+| [denoland/docs](https://github.com/denoland/docs) | [#3459](https://github.com/denoland/docs/pull/3459) | `deno pack` publish.include (2.9) |
 
 <!-- profile-refresh: 2026-08-19 -->
