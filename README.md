@@ -34,6 +34,18 @@
     <th align="center">Status</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/cloudflare/workers-sdk"><strong>workers-sdk</strong></a></td>
+    <td align="center"><a href="https://github.com/cloudflare/workers-sdk/pull/15288"><code>#15288</code></a></td>
+    <td>C3 mkdir at Windows drive root</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cloudflare/vinext"><strong>vinext</strong></a></td>
+    <td align="center"><a href="https://github.com/cloudflare/vinext/pull/3009"><code>#3009</code></a></td>
+    <td><code>vinext start</code> uses wrangler on CF builds</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
     <td rowspan="3"><a href="https://github.com/cloudflare/cloudflare-docs"><strong>cloudflare-docs</strong></a></td>
     <td align="center"><a href="https://github.com/cloudflare/cloudflare-docs/pull/32844"><code>#32844</code></a></td>
     <td>DNSCrypt GitHub URL</td>
@@ -102,6 +114,12 @@
   <tr>
     <td align="center"><a href="https://github.com/duckdb/duckdb-web/pull/7163"><code>#7163</code></a></td>
     <td>GeoJSON in the json extension</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/drizzle-team/drizzle-orm-docs"><strong>drizzle docs</strong></a></td>
+    <td align="center"><a href="https://github.com/drizzle-team/drizzle-orm-docs/pull/708"><code>#708</code></a></td>
+    <td><code>migrate()</code> needs <code>migrationsFolder</code></td>
     <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
   </tr>
 </table>
