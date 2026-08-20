@@ -34,7 +34,7 @@
     <th align="center">Status</th>
   </tr>
   <tr>
-    <td rowspan="4"><a href="https://github.com/cloudflare/cloudflare-docs"><strong>cloudflare-docs</strong></a></td>
+    <td rowspan="3"><a href="https://github.com/cloudflare/cloudflare-docs"><strong>cloudflare-docs</strong></a></td>
     <td align="center"><a href="https://github.com/cloudflare/cloudflare-docs/pull/32844"><code>#32844</code></a></td>
     <td>DNSCrypt GitHub URL</td>
     <td align="center"><img src="https://img.shields.io/badge/merged-2da44e?style=flat-square" alt="merged" /></td>
@@ -47,11 +47,6 @@
   <tr>
     <td align="center"><a href="https://github.com/cloudflare/cloudflare-docs/pull/32847"><code>#32847</code></a></td>
     <td>Short Pages framework-guide URLs</td>
-    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/cloudflare/cloudflare-docs/pull/32848"><code>#32848</code></a></td>
-    <td>Spectrum FTP article link</td>
     <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
   </tr>
   <tr>
