@@ -73,13 +73,18 @@
     <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/dbt-labs/docs.getdbt.com"><strong>dbt docs</strong></a></td>
+    <td rowspan="2"><a href="https://github.com/dbt-labs/docs.getdbt.com"><strong>dbt docs</strong></a></td>
     <td align="center"><a href="https://github.com/dbt-labs/docs.getdbt.com/pull/9852"><code>#9852</code></a></td>
     <td>External partition <code>expression</code> YAML</td>
     <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
   </tr>
   <tr>
-    <td rowspan="2"><a href="https://github.com/duckdb/duckdb-web"><strong>duckdb-web</strong></a></td>
+    <td align="center"><a href="https://github.com/dbt-labs/docs.getdbt.com/pull/9854"><code>#9854</code></a></td>
+    <td>builtins Usage → Examples</td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><a href="https://github.com/duckdb/duckdb-web"><strong>duckdb-web</strong></a></td>
     <td align="center"><a href="https://github.com/duckdb/duckdb-web/pull/7159"><code>#7159</code></a></td>
     <td>Preview latest CLI → tar.gz</td>
     <td align="center"><img src="https://img.shields.io/badge/merged-2da44e?style=flat-square" alt="merged" /></td>
@@ -87,6 +92,16 @@
   <tr>
     <td align="center"><a href="https://github.com/duckdb/duckdb-web/pull/7161"><code>#7161</code></a></td>
     <td>Parquet <code>DATA_PAGE_SIZE_LIMIT</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/duckdb/duckdb-web/pull/7162"><code>#7162</code></a></td>
+    <td><code>CREATE SECURE VIEW</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/duckdb/duckdb-web/pull/7163"><code>#7163</code></a></td>
+    <td>GeoJSON in the json extension</td>
     <td align="center"><img src="https://img.shields.io/badge/open-0969da?style=flat-square" alt="open" /></td>
   </tr>
 </table>
